@@ -1,0 +1,7 @@
+[server]
+# 1 GB per uploaded file. Actual processing limits depend on RAM, disk, and hosting.
+maxUploadSize = 1024
+
+[theme]
+base = "light"
+primaryColor = "#2563eb"
